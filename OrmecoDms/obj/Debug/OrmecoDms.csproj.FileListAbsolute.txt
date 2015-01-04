@@ -1,0 +1,54 @@
+D:\My Documents\Desktop\drops 3\OrmecoDms\OrmecoDms\bin\Debug\OrmecoDms.exe.config
+D:\My Documents\Desktop\drops 3\OrmecoDms\OrmecoDms\bin\Debug\OrmecoDms.exe
+D:\My Documents\Desktop\drops 3\OrmecoDms\OrmecoDms\bin\Debug\OrmecoDms.pdb
+D:\My Documents\Desktop\drops 3\OrmecoDms\OrmecoDms\bin\Debug\C1.Win.C1Input.4.dll
+D:\My Documents\Desktop\drops 3\OrmecoDms\OrmecoDms\bin\Debug\C1.Win.C1Ribbon.4.dll
+D:\My Documents\Desktop\drops 3\OrmecoDms\OrmecoDms\bin\Debug\C1.Win.C1Themes.4.dll
+D:\My Documents\Desktop\drops 3\OrmecoDms\OrmecoDms\bin\Debug\C1.Win.C1Input.4.xml
+D:\My Documents\Desktop\drops 3\OrmecoDms\OrmecoDms\bin\Debug\C1.Win.C1Ribbon.4.xml
+D:\My Documents\Desktop\drops 3\OrmecoDms\OrmecoDms\bin\Debug\C1.Win.C1Themes.4.xml
+D:\My Documents\Desktop\drops 3\OrmecoDms\OrmecoDms\obj\Debug\OrmecoDms.Properties.Resources.resources
+D:\My Documents\Desktop\drops 3\OrmecoDms\OrmecoDms\obj\Debug\OrmecoDms.frmLogin.resources
+D:\My Documents\Desktop\drops 3\OrmecoDms\OrmecoDms\obj\Debug\OrmecoDms.csproj.GenerateResource.Cache
+D:\My Documents\Desktop\drops 3\OrmecoDms\OrmecoDms\obj\Debug\OrmecoDms.exe.licenses
+D:\My Documents\Desktop\drops 3\OrmecoDms\OrmecoDms\obj\Debug\OrmecoDms.exe
+D:\My Documents\Desktop\drops 3\OrmecoDms\OrmecoDms\obj\Debug\OrmecoDms.pdb
+D:\My Documents\Desktop\drops 3\OrmecoDms\OrmecoDms\bin\Debug\C1.Win.C1Command.4.dll
+D:\My Documents\Desktop\drops 3\OrmecoDms\OrmecoDms\bin\Debug\C1.Win.C1Command.4.xml
+D:\My Documents\Desktop\drops 3\OrmecoDms\OrmecoDms\obj\Debug\OrmecoDms.frmDefault.resources
+D:\My Documents\Desktop\drops 3\OrmecoDms\OrmecoDms\obj\Debug\OrmecoDms.frmCreateAcc.resources
+D:\My Documents\Desktop\drops 3\OrmecoDms\OrmecoDms\obj\Debug\OrmecoDms.Form1.resources
+D:\My Documents\Desktop\drops 3\OrmecoDms\OrmecoDms\bin\Debug\C1.Win.C1FlexGrid.4.dll
+D:\My Documents\Desktop\drops 3\OrmecoDms\OrmecoDms\bin\Debug\C1.Win.C1FlexGrid.4.xml
+D:\My Documents\Desktop\drops 3\OrmecoDms\OrmecoDms\bin\Debug\C1.Win.C1TrueDBGrid.4.dll
+D:\My Documents\Desktop\drops 3\OrmecoDms\OrmecoDms\bin\Debug\C1.Win.C1TrueDBGrid.4.xml
+D:\My Documents\Desktop\drops 3\OrmecoDms\OrmecoDms\obj\Debug\OrmecoDms.FrmMain.resources
+D:\My Documents\Desktop\drops 3\OrmecoDms\OrmecoDms\obj\Debug\OrmecoDms.csprojResolveAssemblyReference.cache
+D:\My Documents\Desktop\drops 3\OrmecoDms 2\OrmecoDms\bin\Debug\OrmecoDms.exe.config
+D:\My Documents\Desktop\drops 3\OrmecoDms 2\OrmecoDms\obj\Debug\OrmecoDms.exe
+D:\My Documents\Desktop\drops 3\OrmecoDms 2\OrmecoDms\obj\Debug\OrmecoDms.pdb
+D:\My Documents\Desktop\drops 3\OrmecoDms 2\OrmecoDms\bin\Debug\OrmecoDms.exe
+D:\My Documents\Desktop\drops 3\OrmecoDms 2\OrmecoDms\bin\Debug\OrmecoDms.pdb
+D:\My Documents\Desktop\drops 3\OrmecoDms 2\OrmecoDms\bin\Debug\C1.Win.C1Command.4.dll
+D:\My Documents\Desktop\drops 3\OrmecoDms 2\OrmecoDms\bin\Debug\C1.Win.C1FlexGrid.4.dll
+D:\My Documents\Desktop\drops 3\OrmecoDms 2\OrmecoDms\bin\Debug\C1.Win.C1Input.4.dll
+D:\My Documents\Desktop\drops 3\OrmecoDms 2\OrmecoDms\bin\Debug\C1.Win.C1Ribbon.4.dll
+D:\My Documents\Desktop\drops 3\OrmecoDms 2\OrmecoDms\bin\Debug\C1.Win.C1Themes.4.dll
+D:\My Documents\Desktop\drops 3\OrmecoDms 2\OrmecoDms\bin\Debug\C1.Win.C1TrueDBGrid.4.dll
+D:\My Documents\Desktop\drops 3\OrmecoDms 2\OrmecoDms\bin\Debug\C1.Win.C1Command.4.xml
+D:\My Documents\Desktop\drops 3\OrmecoDms 2\OrmecoDms\bin\Debug\C1.Win.C1FlexGrid.4.xml
+D:\My Documents\Desktop\drops 3\OrmecoDms 2\OrmecoDms\bin\Debug\C1.Win.C1Input.4.xml
+D:\My Documents\Desktop\drops 3\OrmecoDms 2\OrmecoDms\bin\Debug\C1.Win.C1Ribbon.4.xml
+D:\My Documents\Desktop\drops 3\OrmecoDms 2\OrmecoDms\bin\Debug\C1.Win.C1Themes.4.xml
+D:\My Documents\Desktop\drops 3\OrmecoDms 2\OrmecoDms\bin\Debug\C1.Win.C1TrueDBGrid.4.xml
+D:\My Documents\Desktop\drops 3\OrmecoDms 2\OrmecoDms\obj\Debug\OrmecoDms.Form1.resources
+D:\My Documents\Desktop\drops 3\OrmecoDms 2\OrmecoDms\obj\Debug\OrmecoDms.FrmCreateAcc.resources
+D:\My Documents\Desktop\drops 3\OrmecoDms 2\OrmecoDms\obj\Debug\OrmecoDms.Properties.Resources.resources
+D:\My Documents\Desktop\drops 3\OrmecoDms 2\OrmecoDms\obj\Debug\OrmecoDms.FrmDefault.resources
+D:\My Documents\Desktop\drops 3\OrmecoDms 2\OrmecoDms\obj\Debug\OrmecoDms.FrmLogin.resources
+D:\My Documents\Desktop\drops 3\OrmecoDms 2\OrmecoDms\obj\Debug\OrmecoDms.FrmMain.resources
+D:\My Documents\Desktop\drops 3\OrmecoDms 2\OrmecoDms\obj\Debug\OrmecoDms.csproj.GenerateResource.Cache
+D:\My Documents\Desktop\drops 3\OrmecoDms 2\OrmecoDms\obj\Debug\OrmecoDms.exe.licenses
+D:\My Documents\Desktop\drops 3\OrmecoDms 2\OrmecoDms\bin\Debug\C1.Win.C1FlexGrid.Classic.4.dll
+D:\My Documents\Desktop\drops 3\OrmecoDms 2\OrmecoDms\obj\Debug\OrmecoDms.Form2.resources
+D:\My Documents\Desktop\drops 3\OrmecoDms 2\OrmecoDms\obj\Debug\OrmecoDms.csprojResolveAssemblyReference.cache
